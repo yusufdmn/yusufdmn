@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Game Developer & Dreamer of Creating Top Games</h3>
 
 
-- 🔭 I’m currently working on [My Personal Project: Glory of Warrior](https://github.com/yusufdmn/Glory-of-Warrior)
+- 🔭 I’m currently working on [My Educational Project: Glory of Warrior](https://github.com/yusufdmn/Glory-of-Warrior)
 
 - 🌱 I’m currently learning **Unity and C#**
 
