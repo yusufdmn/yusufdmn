@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Game Developer & Dreamer of Creating Top Games</h3>
 
 
-- 🔭 I’m currently working on [My Educational Project: Glory of Warrior](https://github.com/yusufdmn/Glory-of-Warrior)
+- 🔭 My last personal project: [Glory of Warrior](https://github.com/yusufdmn/Glory-of-Warrior)
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I mainly work with **Unity and C#**
 
 - 📝 I sometimes write articles on [https://medium.com/@yusuf_duman](https://medium.com/@yusuf_duman)
 
