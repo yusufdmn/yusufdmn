@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">Passionate Game Developer & Dreamer of Creating Top Games</h3>
 
+- 🧩 Currently working on a **Match3** Game with Collapse/Blast Mechanic.
 
 - 🔭 My last personal project: [Glory of Warrior](https://github.com/yusufdmn/Glory-of-Warrior)
 
